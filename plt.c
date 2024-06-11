@@ -1,8 +1,3 @@
-//Names:Faizan Khan,Mugdha Pandya and Ipsha Anukriti
-//Reg Nos:14BCE0187,14BCE0222,14BCE0188
-
-
-
 //To Implement Predictive Parsing
  #include<string.h>
  #include<stdio.h>
